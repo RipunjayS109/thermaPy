@@ -1,4 +1,4 @@
-![[banner.png]]
+![banner](https://github.com/RipunjayS109/thermaPy/assets/145184045/75d6f8a0-1d6f-4c2b-9ff1-3d7bc4619d0c)
 # thermaPy: Thermal Image Processing for Temperature Extraction
 
 **thermaPy** is a Python library designed for efficient extraction of temperature information from RGB thermal images. It provides a single, user-friendly function (`imgtotempmat`) to convert an RGB thermal image into a corresponding temperature matrix. This matrix offers pixel-wise temperature data, enabling further analysis and visualization of thermal features within the image.
